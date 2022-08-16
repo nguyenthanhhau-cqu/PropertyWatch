@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Property Watch</string>
+    <string name="email_subject">Investment Property Advice</string>
+    <string name="email_body">I would like to recommend this property at %1$s listed for $%2$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="APIKey">AIzaSyApQIIl41y-tNpejqQNH_v-W7-n4e865bI</string>
+</resources>
